@@ -1,8 +1,8 @@
 
 
-function KotakTeks()  {
+function KotakTeks(props)  {
   return (
-    <input type="text" />
+    <input type= "text" placeholder={props.ph} />
   )
 }
 

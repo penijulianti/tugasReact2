@@ -1,0 +1,12 @@
+.button{
+    background: brown;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+header{
+    font-size: 55px;
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
